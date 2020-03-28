@@ -9,7 +9,7 @@ Project Link - https://www.mkyong.com/maven/how-to-create-a-java-project-with-ma
 $ git clone https://github.com/mkyong/maven-examples.git
 $ cd java-project
 $ mvn package 
-$ java -jar target/java-project-1.0-SNAPSHOT.jar 123456
+$ java -jar target/CodeCount.jar
 ```
 Output
 ```
