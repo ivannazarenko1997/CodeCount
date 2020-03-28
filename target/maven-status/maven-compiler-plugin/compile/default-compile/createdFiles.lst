@@ -1,0 +1,10 @@
+com\codeminders\file\App.class
+com\codeminders\services\CLIService$1.class
+com\codeminders\enums\CommandPart.class
+com\codeminders\exeption\InvalidCommandExeption.class
+com\codeminders\exeption\InvalidFileParcerExeption.class
+com\codeminders\services\CLIService.class
+com\codeminders\enums\UserCommand.class
+com\codeminders\services\FileSystemService.class
+com\codeminders\services\CalculateSourceCodeService.class
+com\codeminders\services\InputOutputService.class

@@ -1,0 +1,4 @@
+com\mkyong\hashing\CLIServiceTest.class
+com\mkyong\hashing\FileSystemServiceTest.class
+com\mkyong\hashing\InputOutputServiceTest.class
+com\mkyong\hashing\CalculateSourceCodeServiceTest.class
