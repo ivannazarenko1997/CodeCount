@@ -7,6 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <url>http://maven.apache.org</url>
   <build>
+    <finalName>CodeCount</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-shade-plugin</artifactId>
